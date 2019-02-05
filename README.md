@@ -12,7 +12,8 @@
 - password: password 
 
 
-- for AMAZON AMI image 
+ 
+ --> for Amazon AMI image 
 
 #```sudo yum update```
 
